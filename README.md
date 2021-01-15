@@ -1,4 +1,4 @@
-# Covid_detection_CNN
+# RayTracing-PathTracing-VolumetricTracing
 
 Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabio Pellacini
 
