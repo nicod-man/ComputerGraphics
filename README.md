@@ -72,4 +72,11 @@ Stratified Sampling (respectively: pure random, uniform, and jittered with 64 sa
 
 # VolumetricTracing
 
+The Volumetric shader has the same structure of the Path shader with the addition of handling volumes (both homogenous and heterogenous ones). A brief report explains the handling of the adaptive rendering and the heterogenous volumes.
 
+Results:
+![Sking]()
+
+![AR]()
+
+![HV]()
