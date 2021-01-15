@@ -1,0 +1,74 @@
+{
+  "asset": {
+    "generator": "Yocto/GL - https://github.com/xelatihy/yocto-gl"
+  },
+  "cameras": {
+    "camera": {
+      "aspect": 1.7777777910232544,
+      "focus": 71.7362289428711,
+      "frame": [
+				0.980067, 
+				-0.000000, 
+				0.198669, 
+				-0.005959, 
+				0.999550, 
+				0.029397, 
+				-0.198580, 
+				-0.029995, 
+				0.979626, 
+				-6.465515, 
+				6.266839, 
+				31.895601
+      ]
+    }
+  },
+	"environments": {
+		"sky": {
+	    "emission": [
+				0.8,
+				0.8,
+				0.8
+	    ],
+	  	"emission_tex": "clouds_env"
+		}
+  },
+  "materials": {
+    "material1": {
+	    "color": [
+				1.0,
+				1.0,
+				1.0
+	    ],
+	    "transmission": 1,
+	    "scattering": [
+				0.1,
+				0.1,
+				0.1
+	    ],
+	    "ior": 1,
+	    "thin": false,
+	    "is_het": true,
+	    "scanisotropy" : -0.7
+    }
+  },
+  "objects": {
+    "object1": {
+      "frame": [
+        3,
+        0.0,
+        0.0,
+        0.0,
+        3,
+        0.0,
+        0.0,
+        0.0,
+        3,
+        0.0,
+        7.24348783493042,
+        0.0
+      ],
+      "material": "material1",
+      "shape": "clouds"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+    "asset": {
+	"generator": "Yocto/GL - https://github.com/xelatihy/yocto-gl"
+    },
+    "cameras": {
+	"camera": {
+	    "aspect": 1.7777777910232544,
+	    "focus": 529.913330078125,
+	    "frame": [
+		0.913,
+		0,
+		0.408,
+		0.109,
+		0.964,
+		-0.244,
+		-0.393,
+		0.267,
+		0.880,
+		-26.219,
+		27.410,
+		70.177
+	    ]
+	}
+    },
+    "environments": {
+		"sky": {
+		    "emission": [
+			0.80005,
+			0.80005,
+			0.80005
+		    ],
+		    "emission_tex": "sky"
+		}
+    },
+    "materials": {
+		"floor": {
+		    "color": [
+			0.7,
+			0.7,
+			0.7
+		    ],
+		    "color_tex": "floor2",
+		    "specular": 0
+		},
+		"lights": {
+		    "emission": [
+			10,
+			10,
+			10
+		    ]
+		},
+		"volcube": {
+		    "scattering": [
+			0.1,
+			0.1,
+			0.1
+		    ],
+		    "scanistropy": -0.4,
+		    "ior": 1,
+		    "thin": false,
+		    "is_het": true,
+		    "transmission": 1
+		},
+		"volbox": {
+		    
+		    "color": [
+				1.0,
+				1.0,
+				1.0
+		    ],
+		    "transmission": 1,
+		    "scattering": [
+					0.9,
+					0.9,
+					0.9
+		    ],
+		    "ior": 1,
+		    "thin": false,
+		    "is_het": true,
+		    "scanisotropy" : -0.7
+			},
+		"material1": {
+		    "color": [
+			0.800000011920929,
+			0.800000011920929,
+			0.800000011920929
+		    ],
+		    "displacement": 1.0,
+		    "metallic": 1.0,
+		    "roughness": 0.25123584270477295
+		},
+		"material2": {
+		    "color": [
+					1.0,
+					1.0,
+					1.0
+		    ],
+		    "transmission": 1,
+		    "scattering": [
+					0.9,
+					0.9,
+					0.9
+		    ],
+		    "ior": 1,
+		    "thin": false,
+		    "is_het": true,
+		    "scanisotropy" : -0.7
+    	}
+    },
+    "objects": {
+		"floor": {
+		    "material": "floor",
+		    "shape": "shape1"
+		},
+		"volcube": {
+		    "material": "volcube",
+		    "shape": "shape2"
+		},
+		
+		"volbox": {
+		    "material": "volbox",
+		    "shape": "shape3"		    
+		},
+		"object4": {
+		    "material": "lights",
+		    "shape": "shape4"
+		},
+		"object5": {
+		    "material": "lights",
+		    "shape": "shape5"
+		}
+    }
+}
