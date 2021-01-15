@@ -11,7 +11,7 @@ The course is organized in three homeworks, respectively RayTracing, PathTracing
 				   b) Refraction;
 
 	- PathTracing: 
-			         a) rendering some large scene at high resolution amely 1280x720 with 1024 samples per pixel;
+			         a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
 				   b) custom scenes;
 				   c) refraction;
 				   d) Stratified Sampling;
@@ -30,7 +30,7 @@ Ray tracing is capable of simulating a variety of optical effects, such as refle
 
 Examples:
 
-<img src=”RayTracing/out/highres/11_bathroom1_1280_1024.jpg>
+![alt text](/RayTracing/out/highres/11_bathroom1_1280_1024.jpg)
 
 
 
