@@ -75,8 +75,10 @@ Stratified Sampling (respectively: pure random, uniform, and jittered with 64 sa
 The Volumetric shader has the same structure of the Path shader with the addition of handling volumes (both homogenous and heterogenous ones). A brief report explains the handling of the adaptive rendering and the heterogenous volumes.
 
 Results:
-![Sking]()
+![Skin](https://github.com/nicod-man/ComputerGraphics/blob/master/VolumetricTracing/out/out/lowres/04_head1_720_256.jpg)
 
-![AR]()
+![AR](https://github.com/nicod-man/ComputerGraphics/blob/master/VolumetricTracing/out/out/adaptive_rendering/adaptive_min_256minsamples_2e-3.jpg)
 
-![HV]()
+![HV](https://github.com/nicod-man/ComputerGraphics/blob/master/VolumetricTracing/out/out/delta_tracking/cloud_256_perlin_provasize1.jpg)
+
+![HV2](https://github.com/nicod-man/ComputerGraphics/blob/master/VolumetricTracing/out/out/delta_tracking/cubes_256_perlin_size1.jpg)
