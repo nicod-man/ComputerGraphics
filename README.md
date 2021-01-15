@@ -7,19 +7,19 @@ Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabi
 The course is organized in three homeworks, respectively RayTracing, PathTracing and VolumetricTracing; each one has some extra-credit to implement:
 
 	- RayTracing:  	
-				   a) Toon Shader;
-				   b) Refraction;
+			a) Toon Shader;
+			b) Refraction;
 
 	- PathTracing: 
-			         a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
-				   b) custom scenes;
-				   c) refraction;
-				   d) Stratified Sampling;
+			a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
+			b) custom scenes;
+			c) refraction;
+			d) Stratified Sampling;
 
 
 	- VolumetricTracing: 
-				   a) Adaptive Rendering;
-				   b) Delta-Tracking (for heterogeneous volume);
+			a) Adaptive Rendering;
+			b) Delta-Tracking (for heterogeneous volume);
 
 
 
@@ -30,7 +30,7 @@ Ray tracing is capable of simulating a variety of optical effects, such as refle
 
 Examples:
 
-![alt text](/RayTracing/out/highres/11_bathroom1_1280_1024.jpg)
+![Alt Text](https://github.com/nicod-man/ComputerGraphics/blob/master/Raytracing/out/out/highres/10_hair_1280_1024.jpg)
 
 
 
