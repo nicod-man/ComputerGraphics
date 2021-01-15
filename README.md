@@ -30,8 +30,13 @@ Ray tracing is capable of simulating a variety of optical effects, such as refle
 
 Examples:
 
-![Alt Text](https://github.com/nicod-man/ComputerGraphics/blob/master/Raytracing/out/out/highres/10_hair_1280_1024.jpg)
+![Random](https://github.com/nicod-man/ComputerGraphics/blob/master/Raytracing/out/out/highres/10_hair_1280_1024.jpg)
 
+Refraction 
+![Refraction](https://github.com/nicod-man/ComputerGraphics/blob/master/Raytracing/out/out/lowres/14_refract_1024_256.jpg)
+
+Toon Shader
+![ToonShader](https://github.com/nicod-man/ComputerGraphics/blob/master/Raytracing/out/out/lowres/13_toon_1024_256.jpg)
 
 
 
