@@ -6,20 +6,20 @@ Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabi
 
 The course is organized in three homeworks, respectively RayTracing, PathTracing and VolumetricTracing; each one has some extra-credit to implement:
 
-RayTracing:  	
+1. RayTracing:  	
 	1. [Toon Shader](https://roystan.net/articles/toon-shader.html);
-	1. [Refraction](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel");
+	2. [Refraction](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel");
 
-PathTracing: 
-	a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
-	b) custom scenes;
-	c) refraction;
-	d) [Stratified Sampling](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction/Stratified_Sampling.html);
+2. PathTracing: 
+	1. rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
+	2. custom scenes;
+	3. refraction;
+	4. [Stratified Sampling](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction/Stratified_Sampling.html);
 
 
-VolumetricTracing: 
-	a) [Adaptive Rendering](https://jo.dreggn.org/home/2009_stopping.pdf);
-	b) [Delta-Tracking](http://www.pbr-book.org/3ed-2018/Light_Transport_II_Volume_Rendering/Sampling_Volume_Scattering.html) for heterogeneous volume;
+3. VolumetricTracing: 
+	1. [Adaptive Rendering](https://jo.dreggn.org/home/2009_stopping.pdf);
+	2. [Delta-Tracking](http://www.pbr-book.org/3ed-2018/Light_Transport_II_Volume_Rendering/Sampling_Volume_Scattering.html) for heterogeneous volume;
 
 
 
