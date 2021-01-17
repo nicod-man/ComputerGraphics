@@ -7,8 +7,8 @@ Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabi
 The course is organized in three homeworks, respectively RayTracing, PathTracing and VolumetricTracing; each one has some extra-credit to implement:
 
 	- RayTracing:  	
-			a) Toon Shader;
-			b) Refraction;
+			a) <a href="https://roystan.net/articles/toon-shader.html">Toon Shader</a>;
+			b) <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel">Refraction</a>;
 
 	- PathTracing: 
 			a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
