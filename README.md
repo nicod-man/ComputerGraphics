@@ -1,4 +1,4 @@
-﻿# RayTracing-PathTracing-VolumetricTracing
+# RayTracing-PathTracing-VolumetricTracing
 
 Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabio Pellacini
 
@@ -6,20 +6,20 @@ Fundamentals of Computer Graphics (FoGC): MARR course held by the professor Fabi
 
 The course is organized in three homeworks, respectively RayTracing, PathTracing and VolumetricTracing; each one has some extra-credit to implement:
 
-	- RayTracing:  	
-			a) [Toon Shader](https://roystan.net/articles/toon-shader.html);
-			b) [Refraction](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel");
+RayTracing:  	
+	a) [Toon Shader](https://roystan.net/articles/toon-shader.html);
+	b) [Refraction](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel");
 
-	- PathTracing: 
-			a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
-			b) custom scenes;
-			c) refraction;
-			d) Stratified Sampling;
+PathTracing: 
+	a) rendering some large scene at high resolution,  namely 1280x720 with 1024 samples per pixel;
+	b) custom scenes;
+	c) refraction;
+	d) [Stratified Sampling](http://www.pbr-book.org/3ed-2018/Sampling_and_Reconstruction/Stratified_Sampling.html);
 
 
-	- VolumetricTracing: 
-			a) Adaptive Rendering;
-			b) Delta-Tracking (for heterogeneous volume);
+VolumetricTracing: 
+	a) [Adaptive Rendering](https://jo.dreggn.org/home/2009_stopping.pdf);
+	b) [Delta-Tracking](http://www.pbr-book.org/3ed-2018/Light_Transport_II_Volume_Rendering/Sampling_Volume_Scattering.html) for heterogeneous volume;
 
 
 
