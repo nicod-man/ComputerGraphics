@@ -21,7 +21,7 @@ The course is organized in three homeworks, respectively RayTracing, PathTracing
 	1. [Adaptive Rendering](https://jo.dreggn.org/home/2009_stopping.pdf);
 	2. [Delta-Tracking](http://www.pbr-book.org/3ed-2018/Light_Transport_II_Volume_Rendering/Sampling_Volume_Scattering.html) for heterogeneous volume;
 
-
+All the results are in the directory "../out/out"
 
 # RayTracing
 
